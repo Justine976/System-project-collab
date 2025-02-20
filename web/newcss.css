@@ -1,14 +1,16 @@
 body{
-    background-color: #333333;
+    background-color: #cccccc;
     margin: 2em;
 }
 
 h1{
-    background-color: #006600;
-    color: #ffffff;
+    background-color: #999999;
+    color: black;
+    padding: 1em;
 }
 
 p{
-    background-color: #006600;
-    color: #ffffff;
+    background-color: #999999;
+    color: black;
+    padding: 1em;
 }
